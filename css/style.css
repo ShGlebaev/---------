@@ -1,0 +1,93 @@
+.my-title {
+  font-size: 30px;
+  color: rgb(252, 42, 42);
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.description {
+  font-size: 30px;
+  display: block;
+  color: aliceblue;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 30px;
+  background: rgb(248, 230, 230);
+  height: 80px;
+  text-align: center;
+  color: rgb(78, 187, 197);
+}
+
+.person {
+  width: 200px;
+  float: left;
+}
+
+section {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.change-class {
+  display: flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-wrap: wrap;
+  height: 250px;
+}
+
+.img-center {
+  display: block;
+  margin: auto;
+}
+
+.diolog {
+  display: block;
+  font-size: 22px;
+  width: 400px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.speech {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+blockquote {
+  border: 2px solid rgb(99, 138, 165);
+  height: 100px;
+  font-size: 28px;
+  margin-left: 30px;
+}
+
+.screamer {
+  width: 400px;
+  height: 300px;
+  background: transparent;
+  border: none !important;
+}
+
+.person1{
+  display: block;
+  float: left;
+  width: 150px;
+}
+
